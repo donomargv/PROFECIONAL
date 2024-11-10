@@ -146,6 +146,13 @@ export default function Home() {
           className={styles['profile-image']}
           style={{ width: '100px', height: 'auto', borderRadius: '4px' }}
         />
+                    <h2>Julian Guerrero Garcia</h2>
+            <img
+          src="https://e.plataformaintegra.net/cavirey/img/fotos/mat/2918_114_10.jpeg"
+          alt="Julian Guerrero garcia"
+          className={styles['profile-image']}
+          style={{ width: '100px', height: 'auto', borderRadius: '4px' }}
+        />
             <h2>Portafolio 2024</h2>
             <p>
               En el año 2024 aprendí muchas cosas sobre temas como React, Arduino, Next.js, Scratch, Blogger, WordPress, HTML, CSS y JavaScript.
